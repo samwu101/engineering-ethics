@@ -4,6 +4,7 @@ description: A Source of Information and Guidance
 show_downloads: true
 google_analytics:
 github:
+  intro: https://samwu101.github.io/engineering-ethics
   ethical-principles: https://samwu101.github.io/engineering-ethics/ethical-principles
   problem-solving: https://samwu101.github.io/engineering-ethics/problem-solving
   case-studies: https://samwu101.github.io/engineering-ethics/case-studies

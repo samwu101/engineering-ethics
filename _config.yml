@@ -1,6 +1,8 @@
 theme: jekyll-theme-cayman
 title: Engineering Ethics in Everyday Life
 description: A Source of Information and Guidance
+show_downloads: true
+google_analytics:
 github:
   introduction: https://samwu101.github.io/engineering-ethics
   ethical-principles: https://samwu101.github.io/engineering-ethics/ethical-principles

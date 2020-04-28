@@ -6,4 +6,5 @@ Like Einstein had once said, "It is not enough that you should understand about 
 
 The main goal of this website is to help engineering students and practicing engineers become better at recognizing a wide range of ethical issues in engineering work and to think about them in a critical, contextual way. A secondary goal is to increase public awareness of technical, social, and personal characteristics of engineering situations that can lead to misconduct by engineers.
 
-This website is a collaborative effort among the following people: *Sam Wu, Prom Putthisri, Wendy Hu, Rohan Sood, Yusuf Ahmed*
+After viewing/using this website, please consider [giving us feedback](https://forms.gle/zZS6uFQR5HM4pZVn8) so that we can improve the content and serve more people learning about engineering ethics.
+
